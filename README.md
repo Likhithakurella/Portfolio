@@ -1,52 +1,87 @@
-# LIKHITHA SRI KURELLA
-portfolio sample
+# Likhitha Sri Kurella
 
-# 💼 [Your Name]'s Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/likhithasrik/)
+[![Email](https://img.shields.io/badge/Email-lsk3@illinois.edu-red)](mailto:lsk3@illinois.edu)
 
-Welcome to my GitHub portfolio! I'm a passionate Business Analyst and Data Enthusiast with skills in data wrangling, reporting, and visualizations. I have experience with tools such as Excel, Power BI, R, Python, and SQL. This repository showcases some of the projects I've worked on in data analytics, consulting, and beyond.
-
-## 🔗 Connect with me:
-- [https://www.linkedin.com/in/likhithasrik/]
-- [likhitha.kurella.we@gmail.com]
+📊 **Aspiring Business Analyst | Data Analytics Enthusiast | MS in Business Analytics Candidate at UIUC**
 
 ---
 
-## 👨‍💼 About Me
+## 👩‍🎓 Education
+- **University of Illinois Urbana-Champaign**, Gies College of Business  
+  Master of Science in Business Analytics, *Expected Graduation: May 2025*
 
-I have an MBA specializing in Human Resources and hands-on experience in the Learning & Development field. I am currently exploring opportunities in business analytics and consulting, focusing on **Human Capital**, **Analytical Consulting**, and **Business Advisory Analytics**. I have a strong interest in using data-driven insights to solve business problems.
+- **Welingkar Institute of Management**, Bengaluru, India  
+  Master of Business Administration, *Graduated: May 2023*
 
-- 📊 **Areas of Expertise**: 
-  - Data Analysis & Visualization
-  - Excel, Power BI, R, Python, SQL
-  - Learning Management Systems (LMS)
-  - Business Consulting
-  - Project Management
-  
-- 🎓 **Educational Background**: 
-  - MBA in Human Resources 
-  - Courses in Data Analytics & Business Intelligence
+- **Osmania University**, Hyderabad, India  
+  Bachelor of Commerce, *Graduated: Sep 2020*
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Professional Experience
 
+### Arcolab
+**Learning and Development Associate**  
+*Jun 2023 - Jul 2024 | Bengaluru, India*  
+- Utilized Power BI, Tableau, and Excel for data cleaning, management, and analysis, generating actionable insights to advance people analytics.
+- Increased e-learning adoption from 10% to 60% by data mining and presenting findings to clients.
+- Led data-driven L&D projects, reduced session cancellations by 12%, and supported over 1,392 employees.
 
-### 🍦 [ConeZone Ice Cream Store Expansion Strategy](https://github.com/yourusername/ConeZone-Expansion)
-Developed a consulting case study for ConeZone, a California-based ice cream chain. Analyzed customer behavior, market trends, and competitor pricing to provide strategic recommendations for expansion.
+### ABC Consultancy
+**Human Resource Intern**  
+*May 2023 - Jun 2023 | Mumbai, India*  
+- Analyzed HR data for Engineering and Manufacturing clients using Power BI, contributing to decision-making and operational efficiency.
 
-- Tools: Excel, Power BI, Market Research
-- Focus: Business Strategy, Customer Analysis
+### Freo, Money Tap
+**Human Resource Intern**  
+*Jun 2022 - Aug 2022 | Bengaluru, India*  
+- Developed competency frameworks, conducted HR analytics, and aligned benchmarking with industry standards.
+
+### Deloitte USI
+**Audit Analyst Intern**  
+*Dec 2020 - Feb 2021 | Hyderabad, India*  
+- Conducted audits of cash transactions and expenses, ensuring compliance and accurate financial reporting.
 
 ---
 
-## 💻 Technical Skills
+## 📈 Projects
 
-- **Programming Languages**: R, Python, SQL
-- **Data Tools**: Excel, Power BI, ggplot2, Pandas
-- **Business Tools**: SAS, Learning Management Systems (LMS)
-- **Data Wrangling & Visualization**: Data cleaning, transformation, and storytelling using graphs and reports
+### **Learner Retention Rate Analysis**
+- **Tools**: Tableau, R, Excel
+- Collaborated with the DPI PTTL team to analyze student retention rates and support strategies for enhancing engagement.
+
+### **Yelp Data Conversion for Restaurant Analytics**
+- **Tools**: Python, MySQL
+- Converted semi-structured JSON data into a MySQL database, enabling detailed restaurant analytics.
 
 ---
+
+## 🏆 Honors & Awards
+- **Silver Medal** - Arcolab Laurels for improving operational efficiency by 15%.
+- **Best Business Idea** - E-waste model at a government-led sustainable Hackathon.
+- **State and National Swimming Medals** - Demonstrating discipline and resilience in sports.
+
+---
+
+## 🔧 Skills
+- **Data Visualization**: Power BI, Tableau, Excel
+- **Programming**: Python, R, SQL, SAS
+- **Cloud Services**: AWS
+- **Certifications**: IIBA Entry Certificate in Business Analysis (ECBA)
+
+---
+
+## 📫 Get in Touch
+- **Email**: lsk3@illinois.edu
+- **LinkedIn**: [Likhitha Sri Kurella](https://www.linkedin.com/in/likhithasrik/)
+
+---
+
+**Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out for collaboration opportunities.**
+
+
+
 
 
 
